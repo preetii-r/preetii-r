@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preetiroshan
 - 👀 I’m interested in web development, especially in ReactJs and Javascript,
 - 🌱 I’m currently working as a React Developer
-- 💞️ I’m looking to collaborate on open source Full stack (MERN) projects
+- � I’m looking to collaborate on open source Full stack (MERN) projects
 - 📫 You can reach out to me on preetiroshan14@gmail.com
 
 <!---
