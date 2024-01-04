@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preeti Roshan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetiroshan" alt="preetiroshan" /></a> </p>
-
-- 🔭 I’m currently working as a **Senior Software Engineer at Paytm**
+- 🔭 I’m currently working as a **Senior Software Engineer**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
